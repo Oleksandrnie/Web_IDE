@@ -11,8 +11,10 @@ node_modules
 dist
 dist-ssr
 *.local
+
+# Документирование файлов проекта где есть описание JSDoc
 docs
-Readme2.md
+
 
 # Editor directories and files
 .vscode/*
